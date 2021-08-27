@@ -7,11 +7,11 @@
 
   <ItemGroup>
     <PackageReference Include="Bogus" Version="33.0.2" />
-    <PackageReference Include="Com.MarcusTS.ResponsiveTasks" Version="1.0.17" />
-    <PackageReference Include="Com.MarcusTS.SharedUtils" Version="1.0.32" />
+    <PackageReference Include="Com.MarcusTS.ResponsiveTasks" Version="1.0.21" />
+    <PackageReference Include="Com.MarcusTS.SharedUtils" Version="1.0.34" />
     <PackageReference Include="Microsoft.NET.Test.Sdk" Version="16.11.0" />
-    <PackageReference Include="MSTest.TestAdapter" Version="2.2.5" />
-    <PackageReference Include="MSTest.TestFramework" Version="2.2.5" />
+    <PackageReference Include="MSTest.TestAdapter" Version="2.2.6" />
+    <PackageReference Include="MSTest.TestFramework" Version="2.2.6" />
     <PackageReference Include="coverlet.collector" Version="3.1.0">
       <PrivateAssets>all</PrivateAssets>
       <IncludeAssets>runtime; build; native; contentfiles; analyzers; buildtransitive</IncludeAssets>
